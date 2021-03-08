@@ -1,7 +1,8 @@
 # agile-demo
 - This application was created to show 4 values and 12 principles of Agile Development Method.
-- User who interacts with the application can not only see the stuffs but also adding, deleting and updating existed value
+- User who interacts with the application can not only see the stuffs but also adding, deleting and updating existed value.
 
+- To start demo, please install requirement environment and library for Back-end and Front-end bellow. Then compiles and hot-reloads for development in sequence Back-end, Front-end.
 
 # Back-end
 ## Environment
@@ -11,11 +12,10 @@
 ```
 pip install -r requirements.txt
 ```
-### Run api
+### Compiles and hot-reloads for development
 ```
 python api.py
 ```
-
 
 # Front-end
 ```
