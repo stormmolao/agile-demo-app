@@ -8,6 +8,11 @@
 ## Environment
 - Require install Python 3
 - Require install pip
+Install by Homebrew (on macOs )
+```
+brew install python
+```
+or you can download at link https://www.python.org/downloads/
 ## Project setup
 ```
 pip install -r requirements.txt
@@ -22,8 +27,11 @@ python api.py
 cd webapp
 ```
 ## Environment
-- Require install Nodejs
+- Require install Nodejs, download at link https://nodejs.org/en/download/
 - Require install Vue-CLI
+```
+npm install -g @vue/cli
+```
 ## Project setup
 ```
 npm install
