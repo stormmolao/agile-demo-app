@@ -34,3 +34,18 @@ npm install
 npm run serve
 ```
 
+### Run tests
+To run all test
+```
+jest
+```
+or
+```
+npm run test:unit
+```
+
+To run specify file: jest 'relative path'
+example
+```
+jest your-computer-path/agile-demo-app/webapp/tests/unit/AgileBase.spec.js
+```
